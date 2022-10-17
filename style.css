@@ -10,6 +10,9 @@ body{
     background: #2f2f2f;
     font-family: 'Bree Serif', serif;
     background-image: url('https://source.unsplash.com/1600x900/?nature');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .container-card{
